@@ -1,0 +1,21 @@
+/* styles.css */
+
+.odd {
+    background:hsl(0, 79%, 72%);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+    }
+
+.cooler {
+    font-size:24px
+}
+
+#second {
+    color: hsl(240, 100%, 50%);
+    font-size:36px;
+}
+
+#forth {
+    background: hsl(120, 73%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
